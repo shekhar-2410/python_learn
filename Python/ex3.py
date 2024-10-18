@@ -1,9 +1,9 @@
 # ask the user to enter their three favourite movie and enter in list
-# movies = []
-# movies.append(input("Enter first movie: "))
-# movies.append(input("Enter second movie: "))
-# movies.append(input("Enter third movie: "))
-# print(movies)
+movies = []
+movies.append(input("Enter first movie: "))
+movies.append(input("Enter second movie: "))
+movies.append(input("Enter third movie: "))
+print(movies)
 
 # check if list is palindrome or not
 palindrome = ["m","a","a","m"]
